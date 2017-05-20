@@ -72,7 +72,9 @@ bindsym $mod+Shift+8 move container to workspace $workspace8
 bindsym $mod+Shift+9 move container to workspace $workspace9
 bindsym $mod+Shift+0 move container to workspace $workspace10
 
+workspace_auto_back_and_forth yes
 bindsym $mod+y workspace back_and_forth
+bindsym $mod+Shift+y move container to workspace back_and_forth
 
 assign [class="Chromium"] $workspace1
 
