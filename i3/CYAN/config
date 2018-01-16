@@ -23,7 +23,6 @@ exec_always xrandr --output eDP1 --primary
 
 bindsym $mod+Shift+e exec xfce4-session-logout
 bindsym $mod+Shift+x exec i3lock --color "$back"
-#bindsym XF86Tools exec i3lock --color "$back"
 
 # emacs mode
 # because alt is mod and I need alt in emacs
