@@ -1,0 +1,4 @@
+! -*- coding: utf-8 -*-
+! make lock do f11
+
+keycode 191 = 0xFFFF 0xFFFF 0xFFFF 0xFFFF 0xFFFF 0xFF XF86Switch_VT_11
